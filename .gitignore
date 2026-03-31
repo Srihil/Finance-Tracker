@@ -14,7 +14,7 @@ venv/
 *.log
 staticfiles/
 media/
-
+.env
 node_modules/
 .expo/
 dist/
